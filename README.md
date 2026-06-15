@@ -2,7 +2,7 @@
 
 ## Project Repository
 
-This repository serves as the official workspace for our Final Year Project (FYP). It is used for project development, code management, documentation, and collaboration among team members.
+This repository serves as the official workspace for our AI Project. It is used for project development, code management, documentation, and collaboration among team members.
 
 ## Team Members
 
